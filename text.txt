@@ -1,0 +1,1 @@
+{"quest":"What the color are contein all other colors inside itself?","right_answer":"white"}_;_{"quest":"What?","right_answer":"that"}
